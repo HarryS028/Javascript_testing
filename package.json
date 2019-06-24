@@ -1,0 +1,24 @@
+{
+  "name": "harry_palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryS028/Javascript_testing.git"
+  },
+  "keywords": [
+    "palindrome",
+    "learn_enough",
+    "javascript"
+  ],
+  "author": "Harry Shuttleworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryS028/Javascript_testing/issues"
+  },
+  "homepage": "https://github.com/HarryS028/Javascript_testing#readme"
+}
